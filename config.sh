@@ -236,7 +236,7 @@ CONFIG_PACKAGE_luci-theme-opentomcat=y
 # CONFIG_PACKAGE_shadowsocksr-libev-server is not set
 # CONFIG_PACKAGE_shadowsocksr-libev-ssr-local is not set
 # CONFIG_PACKAGE_simple-obfs is not set
-# CONFIG_PACKAGE_tcping is not set
+CONFIG_PACKAGE_tcping=y
 CONFIG_PACKAGE_xray-core=y
 CONFIG_PACKAGE_lua-maxminddb=y
 CONFIG_PACKAGE_luci-app-vssr=y
